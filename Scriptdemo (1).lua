@@ -64,7 +64,7 @@ AddButton(Tab2o, {
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/MaruHub"))() end }) AddButton(Tab1o,{Name ="Lion Hub ",Callback = function()repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
     getgenv().team = "Pirates" -- Marines
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e0c7fcf6c077fc23475cf4ce4db58e42.lua"))() }) AddButton(Tab1o, {
-      Name = "Blue X ",Callback = function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()  
+      Name = "Blue X ",Callback = function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()  end })
     AddButton(Tab1o, {
      Name = "Redz Hub",
     Callback = function()
